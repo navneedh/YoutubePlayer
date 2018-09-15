@@ -23,10 +23,10 @@ if(noSpacesText){
   button2.setAttribute("id", "button2x");
     button2.setAttribute("onload", "draw();");
   enlargebutton.setAttribute("id", "enlarge");
-  button1.setAttribute('style','box-shadow: 0 9px 12px rgba(0, 0, 0, 0.12), 0 1px 4px rgba(0, 0, 0, 0.24);width:28px;height:86%;background-color:white;position:relative;top:2px;right:0px');
-  button2.setAttribute('style','box-shadow: 0 9px 12px rgba(0, 0, 0, 0.12), 0 1px 4px rgba(0, 0, 0, 0.24);width:28px;height:86%;background-color:white;position:relative;left:332px;top:-183px');
-  enlargebutton.setAttribute('style','box-shadow: 0 9px 12px rgba(0, 0, 0, 0.12), 0 1px 4px rgba(0, 0, 0, 0.24);width:100%;height:28px;background-color:white;position:relative;left:0px;top:0px');
-  closebutton.setAttribute('style','width:22px;height:13%;border-style:solid;background-color:white;position:relative;left:0px;top:0px');
+  button1.setAttribute('style','box-shadow: 0 9px 12px rgba(0, 0, 0, 0.12), 0 1px 4px rgba(0, 0, 0, 0.24);width:28px;height:86%;background-color:black;position:relative;top:2px;right:0px');
+  button2.setAttribute('style','box-shadow: 0 9px 12px rgba(0, 0, 0, 0.12), 0 1px 4px rgba(0, 0, 0, 0.24);width:28px;height:86%;background-color:black;position:relative;left:332px;top:-183px');
+  enlargebutton.setAttribute('style','box-shadow: 0 9px 12px rgba(0, 0, 0, 0.12), 0 1px 4px rgba(0, 0, 0, 0.24);width:100%;height:28px;background-color:black;position:relative;left:0px;top:0px');
+  closebutton.setAttribute('style','width:25px;height:13%;border-style:solid;background-color:white;position:relative;left:0px;top:0px');
   container.appendChild(enlargebutton);
   container.appendChild(button1);
   container.appendChild(button2);
