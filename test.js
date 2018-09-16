@@ -1,4 +1,4 @@
-var input = prompt("Enter a Youtube Video");
+var input = prompt("Enter a Video");
 //allow user to select specific video
 //label different buttons on hover
 //playlist option to show all videos in playlist
