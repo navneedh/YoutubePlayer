@@ -1,4 +1,4 @@
-var input = prompt("Enter a Video");
+var input = prompt("What would you like to watch?");
 //allow user to select specific video
 //label different buttons on hover
 //playlist option to show all videos in playlist
